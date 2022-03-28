@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CMHRXD
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript Project
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 You can reach me in: cmhrlxl@gmail.com
