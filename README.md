@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cristian Hernandez
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Projects
+- 👋 Hi, I’m @Cristian Hernandez a Full Stack Developer.
+- 👀 I’m interested in web programming and new challenges.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on Web Projects.
 - 📫 You can reach me in: cmhrlxl@gmail.com
